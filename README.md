@@ -1,18 +1,18 @@
 # Grocery Store Calculator
 
-Учебный проект на Java, который вычисляет выручку продуктового магазина.
+A small Java project for learning purposes that calculates the total income of products in a store.
 
-## Структура проекта
-- `src/` – исходный код программы
-- `.gitignore` – файлы и папки, которые были пропущены
-- `README.md` – этот файл с инструкциями
+## Project Structure
+- `src/` – source code
+- `.gitignore` – files and folders that should not be attached by Git
+- `README.md` – this file with instructions
 
-## Как запустить
-1. Скомпилируй код:
+## How to run
+1. Compile the code:
 ```bash
 javac src/Main.java
 ```
-2. Запусти программу:
+2. Run the program:
 ```bash
 java -cp src Main
 ```
