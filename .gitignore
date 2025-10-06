@@ -5,8 +5,8 @@ out/
 .kotlin
 .idea/
 *.iml
-/out/
-/target/
+out/
+target/
 *.class
 
 ### Eclipse ###
